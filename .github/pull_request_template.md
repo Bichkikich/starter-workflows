@@ -1,4 +1,27 @@
-Thank you for sending in this pull request. Please make sure you take a look at the [contributing file](https://github.com/actions/starter-workflows/blob/master/CONTRIBUTING.md). Here's a few things for you to consider in this pull request:
+Thank you for sending in Bonjour 
+Je m'appelle Clément
+Désolé je suis nul en anglais et en codage
+Novice
+Merci pour tout
+Merci beaucoup
+
+Amour et Paix Peace and Love Rooots musiccck
+
+
+J'habite à la Réunion sur une île à côté de Madagascar.
+Il est 10 : 17 chez moi
+
+Bonne journée
+
+Je vais aller me faire un c afé 
+
+
+See you soon
+Rescap
+Brrrahhh
+
+
+this pull request. Please make sure you take a look at the [contributing file](https://github.com/actions/starter-workflows/blob/master/CONTRIBUTING.md). Here's a few things for you to consider in this pull request:
 
 - [ ] Include a good description of the workflow.
 - [ ] Links to the language or tool will be nice (unless its really obvious)
